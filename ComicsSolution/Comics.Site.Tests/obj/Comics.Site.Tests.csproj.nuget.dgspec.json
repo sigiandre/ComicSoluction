@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj",
+        "projectName": "Comics.Domain",
+        "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj",
+        "packagesPath": "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj",
+        "projectName": "Comics.Infraestructure.Data",
+        "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj",
+        "packagesPath": "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Infraestructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj": {
+                "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj",
+        "projectName": "Comics.Site.Tests",
+        "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj",
+        "packagesPath": "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site\\Comics.Site.csproj": {
+                "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site\\Comics.Site.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site\\Comics.Site.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site\\Comics.Site.csproj",
+        "projectName": "Comics.Site",
+        "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site\\Comics.Site.csproj",
+        "packagesPath": "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Site\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj": {
+                "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj"
+              },
+              "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj": {
+                "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

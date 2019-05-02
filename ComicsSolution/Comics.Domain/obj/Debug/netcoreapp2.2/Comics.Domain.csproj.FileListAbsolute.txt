@@ -1,0 +1,45 @@
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.deps.json
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.deps.json
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.deps.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.deps.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csprojAssemblyReference.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csproj.CoreCompileInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfoInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfo.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.deps.json
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.pdb

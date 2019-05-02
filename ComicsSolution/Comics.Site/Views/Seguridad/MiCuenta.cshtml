@@ -1,0 +1,37 @@
+﻿@model UsuarioLogin
+@{
+    ViewData["Title"] = "Mi Cuenta";
+}
+<!-- Main content -->
+<div id="main_container" class="ts-page-shop">
+    <div id="main_container">
+        <div class="container ipage">
+            <div class="woocommerce">
+                <form method="post" class="login" asp-action="login">
+                    <h2>Acceder</h2>
+                    <hr>
+                    <p class="ts-user form-row form-row-wide">
+                        <input type="text" class="input-text" asp-for="Email" placeholder="Correo electrónico">
+                    </p>
+                    <p class="ts-password form-row form-row-wide">
+                        <input class="input-text" type="password" asp-for="Password" placeholder="Clave">
+                    </p>
+                    <p class="form-row ts-submit-login">
+                        <input type="hidden" id="_wpnonce" name="_wpnonce" value="65765474e3">
+                        <input type="hidden" name="_wp_http_referer" value="/my-account/"><span>
+                            <input type="submit" class="button submit-login" name="login" value="Acceder">
+                        <span style="color:red;">@ViewBag.MensajeError</span>
+                        </span>
+                        @*<span>
+                            <label for="rememberme" class="inline"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Recordarme</label>
+                        </span>*@
+                        <span class="lost_password">
+                            <a href="#">Recuperar contraseña?</a>
+                        </span>
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End / Main content -->

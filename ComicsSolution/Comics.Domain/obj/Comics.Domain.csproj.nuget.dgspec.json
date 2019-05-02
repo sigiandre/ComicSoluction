@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj",
+        "projectName": "Comics.Domain",
+        "projectPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj",
+        "packagesPath": "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\.nuget\\packages\\",
+        "outputPath": "D:\\Curso NetCore 2_OscarGenso\\Sesion6\\ComicsSolution\\Comics.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VKTOP.DESKTOP-JPVHKI2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

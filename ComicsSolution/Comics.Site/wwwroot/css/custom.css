@@ -1,0 +1,15 @@
+/*
+Theme Name: Memory
+Theme URI: http://memory.pltheme.com/
+Author: Mr Phuong
+Author URI: http://pltheme.com/
+Description: Memory Mobile Friendly HTML Template
+*/
+
+
+.tab-list-post { overflow: hidden;  max-height: 391px; }
+.tab-list-post .item-post {
+    max-width: 633px;
+    float: left;
+}
+

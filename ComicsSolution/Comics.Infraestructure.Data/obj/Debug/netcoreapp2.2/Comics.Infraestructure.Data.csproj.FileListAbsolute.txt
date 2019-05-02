@@ -1,0 +1,64 @@
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.deps.json
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CopyComplete
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.deps.json
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CopyComplete
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.deps.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CopyComplete
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.deps.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.runtimeconfig.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.runtimeconfig.dev.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csprojAssemblyReference.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfo.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CopyComplete
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.deps.json
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb

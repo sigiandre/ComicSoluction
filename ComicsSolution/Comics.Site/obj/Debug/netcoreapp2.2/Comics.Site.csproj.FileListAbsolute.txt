@@ -1,0 +1,250 @@
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.deps.json
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.json
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.dev.json
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.input.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.output.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorCoreGenerate.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cache
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CopyComplete
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contacto.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nosotros.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Crear.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Detalles.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Seguridad\MiCuenta.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Detalle.g.cshtml.cs
+D:\TallerASPNETCore\Sesion3\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.deps.json
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.json
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.dev.json
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.input.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.output.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorCoreGenerate.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contacto.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nosotros.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Crear.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Detalles.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Seguridad\MiCuenta.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Detalle.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cache
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CopyComplete
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.dll
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Editar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Eliminar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Crear.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Editar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Eliminar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion4\ComicsSolution\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Parametros\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.deps.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.dev.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.input.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.output.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorCoreGenerate.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contacto.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nosotros.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Parametros\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Crear.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Editar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Eliminar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Crear.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Detalles.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Editar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Eliminar.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Seguridad\MiCuenta.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Detalle.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Index.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CopyComplete
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csprojAssemblyReference.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CoreCompileInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfoInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfo.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.deps.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.dev.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.input.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.output.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorCoreGenerate.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contacto.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nosotros.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Parametros\Index.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Crear.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Editar.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Eliminar.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Index.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Crear.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Detalles.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Editar.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Eliminar.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Index.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Seguridad\MiCuenta.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Detalle.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Index.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Crear.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Editar.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Eliminar.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Index.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CopyComplete
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\FileUpload.g.cshtml.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Detalles.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.deps.json
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorAssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.input.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.TagHelpers.output.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorCoreGenerate.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contacto.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Nosotros.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Parametros\Index.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Crear.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Detalles.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Editar.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Eliminar.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\RevistasAjax\Index.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Crear.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Detalles.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Editar.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Eliminar.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Revistas\Index.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Seguridad\MiCuenta.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\FileUpload.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Detalle.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Tienda\Index.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Crear.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Editar.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Eliminar.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cache
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.RazorTargetAssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.csproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.dll
+C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Site\obj\Debug\netcoreapp2.2\Comics.Site.pdb

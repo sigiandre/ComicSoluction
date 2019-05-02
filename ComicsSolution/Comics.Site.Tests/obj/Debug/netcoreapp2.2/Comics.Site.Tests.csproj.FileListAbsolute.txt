@@ -1,0 +1,46 @@
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.csprojAssemblyReference.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.csproj.CoreCompileInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.AssemblyInfoInputs.cache
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.AssemblyInfo.cs
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.deps.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.runtimeconfig.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.runtimeconfig.dev.json
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Views.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.csproj.CopyComplete
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.pdb
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.dll
+D:\TallerASPNETCore\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.csprojAssemblyReference.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.csproj.CoreCompileInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.AssemblyInfoInputs.cache
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.AssemblyInfo.cs
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Views.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Views.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.deps.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.runtimeconfig.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.runtimeconfig.dev.json
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.Tests.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Site.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.csproj.CopyComplete
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.dll
+D:\Curso NetCore 2_OscarGenso\Sesion6\ComicsSolution\Comics.Site.Tests\obj\Debug\netcoreapp2.2\Comics.Site.Tests.pdb

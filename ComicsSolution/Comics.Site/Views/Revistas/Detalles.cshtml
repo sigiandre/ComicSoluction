@@ -1,0 +1,55 @@
+﻿@model Comics.Domain.Entities.Comic
+@{
+    ViewData["Title"] = "Detalle de Revista";
+}
+<div id="main_container">
+    <div class="container ipage">
+        <div class="row">
+            <!-- Start Loop Posts -->
+            <div id="inner-container" class="col-md-12 col-sm-12 col-xs-12 main-container">
+                <div class="parallax-about">
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="wpb_wrapper">
+                                <div class="section-title center">
+                                    <h3 class="bold text-uppercase">Detalle del Comic</h3><div class="hr"></div>
+                                </div>
+                                <p>
+                                    <a asp-action="Index" class="btn btn-default btn-sm"><< Regresar al listado</a>
+                                </p>
+                                <hr />
+                                <div class="ts-blog blog_peronal_list bloglist-size1">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="form-group">
+                                                <label asp-for="Id" class="control-label"></label>:
+                                                @Html.DisplayFor(model => model.Id)
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Nombre" class="control-label"></label>:
+                                                @Html.DisplayFor(model => model.Nombre)
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Año" class="control-label"></label>:
+                                                @Html.DisplayFor(model => model.Año)
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="FechaRegistro" class="control-label"></label>:
+                                                @Html.DisplayFor(model => model.FechaRegistro)
+                                            </div>
+                                            <div class="form-group">
+                                                @Html.DisplayNameFor(model => model.Foto):
+                                                @Html.DisplayFor(model => model.Foto)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

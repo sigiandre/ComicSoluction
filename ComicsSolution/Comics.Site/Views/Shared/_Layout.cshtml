@@ -1,0 +1,300 @@
+﻿<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>@ViewData["Title"] - Comics.Site</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="imagenes/favicon.ico" />
+    <environment include="Development">
+        <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+        <link href="~/css/shortcodes.css" rel="stylesheet" />
+        <link href="~/css/simple-line-icons.css" rel="stylesheet" />
+        <link href="~/css/bootstrap-colorpicker.css" rel="stylesheet" />
+        <link href="~/css/prettyPhoto.css" rel="stylesheet" />
+        <link href="~/css/justifiedGallery.min.css" rel="stylesheet" />
+        <link href="~/css/easy-responsive-tabs.css" rel="stylesheet" />
+        <link href="~/css/select2.css" rel="stylesheet" />
+        <link href="~/css/owl.carousel.css" rel="stylesheet" />
+        <link href="~/css/elegant-font.css" rel="stylesheet" />
+        <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+        <link href="~/css/styles.css" rel="stylesheet" />
+        <link href="~/css/custom.css" rel="stylesheet" />
+        <link href="~/css/menueffect.css" rel="stylesheet" />
+        <link href="~/css/woocommerce/chosen.css" rel="stylesheet" type="text/css" />
+        <link href="~/css/woocommerce/woocommerce.css" rel="stylesheet" type="text/css" />
+        <link href="~/css/js_composer.css" rel="stylesheet" />
+        <link href="~/css/template.css" rel="stylesheet" />
+
+        <link href="~/css/site.css" rel="stylesheet" />
+        <link rel="stylesheet" id="redux-google-fonts-memory-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A400&#038;subset=latin&#038;ver=1446953476" type="text/css" media="all" />
+
+    </environment>
+    <environment exclude="Development">
+        <link href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link href="~/css/site.min.css" rel="stylesheet" asp-append-version="true" />
+        @*<link href="~/css/justifiedGallery.min.css" rel="stylesheet" asp-append-version="true" />
+            <link href="~/css/font-awesome.min.css" rel="stylesheet" asp-append-version="true" />*@
+    </environment>
+</head>
+<body class="home blog">
+    <partial name="_CookieConsentPartial" />
+    <!--Wrapper-->
+    <div id="wrapper" class="intro-effect-push">
+        <header>
+            <div class="ts-main-header main-header-style2 headerMenu">
+                <div class="main-header">
+                    <div class="over-lay"></div>
+                    <h1 class="logo">
+                        <a href="~/">
+                            <img src="~/imagenes/logo.png" alt="TEsto alternativo" />
+                        </a>
+                    </h1>
+                </div>
+                <div class="main-menu-2">
+                    <div class="container">
+                        <div class="ts-mainmenu-center">
+                            <div class="ts-mainmenu">
+                                <div class="head-socials">
+                                    <a href="javascript:void(0)" class="ts-social-togole"><i class="fa fa-share-alt"></i></a>
+                                </div>
+                                <a href="javascript:void(0)" class="ts-togole-menu visible-sm visible-xs"><i class="fa fa-bars"></i></a>
+                                <nav class="main-menu nav-menu">
+                                    <ul class="menu-nav list-inline ts-response-simple ts-response-stack ts-effect-slide-right">
+                                        <li class="menu-item current_page_ancestor  ">
+                                            <a title="Inicio" href="~/">Inicio</a>
+                                        </li>
+                                        <li class="menu-item"><a href="~/Home/Nosotros">Nosotros</a></li>
+                                        <li class="menu-item menu-item-has-children dropdown">
+                                            <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Tienda</a>
+                                            <ul role="menu" class=" dropdown-menu">
+                                                <li class="menu-item"><a title="Tienda Comics" href="~/Tienda/Index">Tienda</a></li>
+                                                <li class="menu-item"><a title="Producto Detalle" href="~/Tienda/Detalle">Producto</a></li>
+                                                <li class="menu-item"><a title="Mi Cuenta" href="~/Seguridad/MiCuenta">Mi Cuenta</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item"><a href="~/Home/Contacto">Contacto</a></li>
+                                        <li class="menu-item menu-item-has-children dropdown">
+                                            <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Mantenimientos</a>
+                                            <ul role="menu" class=" dropdown-menu">
+                                                <li class="menu-item"><a title="Mantenimiento de Revistas" asp-controller="RevistasAjax" asp-action="Index">Revistas</a></li>
+                                                <li class="menu-item"><a title="Mantenimiento de Usuarios" asp-controller="Usuario" asp-action="Index">Usuarios</a></li>
+                                            </ul>
+                                        </li>
+                                        @*<li class="mini-shoping-cart-wraper menu-item menu-item-type-post_type menu-item-object-page ">
+                                                <a class="cart-contents" href="#" title="Ver tu carrito de compras">
+                                                    <i class="fa fa-shopping-cart"></i>
+                                                    <span class="cart-number-items">0</span>
+                                                </a>
+                                                <div class="dropdown-menu mini-shoping-cart">
+                                                    <div class="widget_shopping_cart_content">
+                                                        <ul class="cart_list product_list_widget ">
+                                                            <li class="empty">No hay productos en el carrito.</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </li>*@
+                                    </ul>
+                                </nav>
+                                <div class="header-search pull-right">
+                                    <span class="search-togole"><i class="fa fa-search"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div id="ts-search-box">
+            <div class="search-overlay"></div>
+            <div class="ts-search-pos">
+                <div class="container">
+                    <div class="ts-serch-inner">
+                        <div class="section-title text-center">
+                            <h3 class="text-uppercase">Deseas buscar algo?</h3>
+                            <div class="hr"></div>
+                        </div>
+                        <form id="searchform" class="ts-form-search" method="GET">
+                            <input type="search" name="s" id="s" value="" placeholder="Escribir y presionar Enter..." />
+                            <span><button class="search-submit" type="submit"><i class="fa fa-search"></i></button></span>
+                        </form>
+                        <span class="close-search">Cerrar</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ts-social-header">
+            <div class="social-overlay"></div>
+            <div class="ts-social-inner">
+                <div class="section-title  text-center">
+                    <h3 class="text-uppercase">Follow Me</h3>
+                    <div class="hr"></div>
+                </div>
+                <ul class="list-social">
+                    <li><a target="_blank" href="http://facebook.com"><i class="fa fa-facebook"></i></a></li>
+                </ul>
+                <span class="close-social">Close</span>
+            </div>
+        </div>
+
+        @*INICINADO EL CONTENIDO CENTRAL*@
+
+        <!-- Main content -->
+        @RenderBody()
+        <!-- End / Main content -->
+        @*INICIANDO EL PIE DE PAGINA*@
+        <section class="top-footer">
+            <div class="container">
+                <div class="main-top">
+                    <figure>
+                        <img alt="Image" src="~/imagenes/bg-socials-head.png" />
+                    </figure>
+                    <ul class="list-social">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-tumblr"></i></a></li>
+                        <li><a href="#"><i class="fa fa-vimeo-square"></i></a></li>
+                        <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section class="widger-footer">
+            <div class="over-lay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="ts_about_me-2 widget TS_About_Me">
+                            <div class="ts-about-widget">
+                                <div class="title-widget">
+                                    <h3>Nosotros</h3>
+                                </div>
+                                <div class="content-aboutwidget">
+                                    <div class="post-thumb">
+                                        <figure><img src="~/imagenes/avata-about1.png" alt="Avatar"></figure>
+                                    </div>
+                                    <p>Donec eget risus porttitor lectus ates faucibus libero. In neque .Utultricies faucibus ultricies. In rutrum <a href="#">Leer más &gt;&gt;</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="ts_custom_recent_posts-2 widget Ts_Custom_Recent_Posts">
+                            <h3 class="widget-title">Publicaciones Recientes</h3>
+                            <ul class="recent_posts_list">
+                                <li><span class="post-img"><a href="#"><img alt="Image" src="~/imagenes/ts_no_image-90x90.png" /></a></span><a class="title-post" href="#">Dmeo</a><span class="number-comment">0 &nbsp;Comentarios</span></li>
+                                <li><span class="post-img"><a href="#"><img width="60" height="60" src="~/imagenes/11-150x150.jpg" class="wp-post-image" alt="11" /></a></span><a class="title-post" href="#">Lorem ipsum</a><span class="number-comment">1&nbsp;Comentario</span></li>
+                                <li><span class="post-img"><a href="#"><img width="60" height="60" src="~/imagenes/23-150x150.jpg" class="size-60x60 wp-post-image" alt="23" /></a></span><a class="title-post" href="#">Lorem ipsum dolor</a><span class="number-comment">0 &nbsp;Comentarios</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 last">
+                        <div class="ts_instagram_widget-2 widget TS_Instagram_Widget">
+                            <div class="instagram">
+                                <div class="title-widget">
+                                    <h3>Instagram</h3>
+                                </div>
+                                <div class="photo-instagram">
+                                    <ul class="list-photo">
+                                        <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image" /></a></li>
+
+                                        <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image" /></a></li>
+                                        <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                        <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+
+                                    </ul>
+                                    <p>Síguenos&nbsp;<a href="//instagram.com/" target="_blank"> en Instagram</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="container">
+                <a href="javascript:void(0)" class="back-to-top">
+                    <span>Subir</span>
+                    <i class="fa fa-arrow-up"></i>
+                </a>
+                <figure class="logo-ft"><img src="~/imagenes/logo.png" alt="logo-footer" /></figure>
+                <div id="flags_language_selector"></div>
+                <p class="copyright">© 2019 Mi Sitio de Comics  <a href="#" target="_blank">TP1 UPC Web </a>. Todos los derechos reservados.</p>
+            </div>
+        </footer>
+    </div>
+    <!-- End / Page wrap -->
+
+    <environment include="Development">
+        @*<script src="~/lib/jquery/dist/jquery.js"></script>*@
+        <script src="~/js/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+
+        <script type="text/javascript" src="~/js/jquery-migrate.min.js"></script>
+        <script type="text/javascript" src="~/js/ts-ajax.js"></script>
+        <script type="text/javascript" src="~/js/comment-reply.min.js"></script>
+        <script type="text/javascript" src="~/js/jquery.form.min.js"></script>
+        <script type="text/javascript" src="~/js/scripts.js"></script>
+        <script type="text/javascript" src="~/js/shortcodes.js"></script>
+        <script type="text/javascript" src="~/js/jquery.blockUI.min.js"></script>
+        <script type="text/javascript" src="~/js/themestudio-like.js"></script>
+        <script type="text/javascript" src="~/js/bootstrap-colorpicker.min.js"></script>
+        <script type="text/javascript" src="~/js/jquery.prettyPhoto.js"></script>
+        <script type="text/javascript" src="~/js/jquery.justifiedGallery.min.js"></script>
+        <script type="text/javascript" src="~/js/jquery.jplayer.min.js"></script>
+        <script type="text/javascript" src="~/js/jquery.fitvids.js"></script>
+        <script type="text/javascript" src="~/js/easyResponsiveTabs.js"></script>
+        <script type="text/javascript" src="~/js/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="~/js/jquery.sticky.js"></script>
+        <script type="text/javascript" src="~/js/jquery.debouncedresize.js"></script>
+        <script type="text/javascript" src="~/js/select-two.js"></script>
+        <script type="text/javascript" src="~/js/jquery.matchHeight.js"></script>
+        <script type="text/javascript" src="~/js/modernizr.js"></script>
+        <script type="text/javascript" src="~/js/masonry.pkgd.min.js"></script>
+        <script type="text/javascript" src="~/js/ts-blog-masonry.js"></script>
+        <script type="text/javascript" src="~/js/ts-blog-grid.js"></script>
+        <script type="text/javascript" src="~/js/woocomerce.js"></script>
+        <script type="text/javascript" src="~/js/custom.js"></script>
+        <script type="text/javascript" src="~/js/js_composer_front.js"></script>
+        <script type="text/javascript" src="~/js/wp-embed.min.js"></script>
+
+        @*
+            <script type="text/javascript" src='assets/js/jquery.js"></script>
+            <script type="text/javascript" src='assets/js/audio.js"></script>
+            <script type="text/javascript" src='assets/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src='assets/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src='assets/js/woocomerce.js"></script>
+        *@
+
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,158 @@
+﻿@{
+    ViewData["Title"] = "Contacto";
+}
+@*<h2>@ViewData["Title"]</h2>
+    <h3>@Model.Message</h3>
+
+    <address>
+        One Microsoft Way<br />
+        Redmond, WA 98052-6399<br />
+        <abbr title="Phone">P:</abbr>
+        425.555.0100
+    </address>
+
+    <address>
+        <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    </address>*@
+
+<div id="main_container">
+    <div class="container">
+        <div class="row">
+            <!-- Start Loop Posts -->
+            <div id="inner-container" class="col-md-9 col-sm-8 col-xs-12 main-container ts-hassidebar">
+                <div class="parallax-about">
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="wpb_wrapper">
+                                <div class="  section-title center">
+                                    <h3 class="bold text-uppercase">Contáctanos</h3><div class="hr"></div>
+                                </div>
+                                <div class="wpb_content_element vc_align_center">
+                                    <img width="779" height="356" src="~/imagenes/contact.jpg" alt="" />
+                                </div>
+                                <div class="wpb_content_element">
+                                    <div class="wpb_wrapper">
+                                        <p>Quisque id efficitur nibh, in volutpat erat. Morbi vel facilisis nulla, id posuere velit. Maecenas tempor lorem ut molestie malesuada. Nulla facilisi. Pellentesqu&nbsp; fermentum felis vel lacinia pulvinar, erat neque tincidunt sapien, sit amet varius lacus justo id nisi. Nunc euismod lacus lectus, ac ullamcorper neque lacinia eget justo consectetur egestas.Phasellus et odio et justo consectetur egestas</p>
+                                    </div>
+                                </div>
+                                <div role="form" class="wpcf7" id="wpcf7-f4731-p84-o1" lang="en-US" dir="ltr">
+                                    <form action="/contact/#wpcf7-f4731-p84-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+
+                                        <p>
+                                            Nombre (requerido)<br>
+                                            <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span>
+                                        </p>
+                                        <p>
+                                            Tu Email (requerido)<br>
+                                            <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span>
+                                        </p>
+                                        <p>
+                                            Asunto<br>
+                                            <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span>
+                                        </p>
+                                        <p>
+                                            Tu mensaje<br>
+                                            <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span>
+                                        </p>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Loop Posts -->
+            <!-- Start sidebar -->
+            <aside id="sidebar" class="col-md-3 col-sm-4 col-xs-12 sidebar sidebar-left">
+
+                <div id="ts_about_me-1" class="widget TS_About_Me">
+                    <div class="ts-about-widget">
+                        <div class="title-widget">
+                            <h3>Nosotros</h3>
+                        </div>
+                        <div class="content-aboutwidget">
+                            <div class="post-thumb">
+                                <figure><img src="~/imagenes/avata-about.png" alt="Avatar"></figure>
+                            </div>
+                            <p>Donec eget risus porttitor lectus ates faucibus libero. In neque .Utultricies faucibus ultricies. In rutrum …<a href="#">Read more &gt;&gt;</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div id="ts_social-2" class="widget TS_Social">
+                    <div class="ts-social-widget">
+                        <div class="title-widget"><h3>Síguenos</h3></div>
+                        <ul class="list-social-widget group-share">
+                            <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fa fa-dribbble"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fa fa-soundcloud"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fa fa-vimeo-square"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="ts_newsletter-2" class="widget TS_Newsletter">
+                    <div class="newsletter-widget">
+                        <div class="title-widget">
+                            <h3>Boletines</h3>
+                        </div>
+                        <div class="form-newsletter">
+                            <form method="post" id="sendmailchip" action="#" onsubmit="sendmailchimp(this); return false;">
+                                <p></p>
+                                <div class="form-ground">
+                                    <input type="text" name="user_firstname" placeholder="Nombre*">
+                                    <input type="text" name="user_lastname" placeholder="Apellido*">
+                                    <input type="email" name="email" placeholder="Correo electrónico*">
+                                    <input type="hidden" name="api_mailchimp" value="">
+                                    <input type="hidden" name="listid_mailchimp" value="">
+                                    <input type="hidden" name="message_mailchimp" value="">
+                                    <span class="input-button"><input type="submit" value="SUBSCRIBIRME"></span>
+                                    <div class="ts-message"></div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div id="ts_banner_spot-1" class="widget TS_Banner_Spot">
+                    <div class="banner-spot">
+                        <div class="title-widget">
+                            <h3>Banner Spot</h3>
+                        </div>
+                        <div class="banner-image">
+                            <a href="#" title="Banner Spot" target="_blank">
+                                <figure><img src="~/imagenes/banner-img.jpg" alt="Banner Spot"></figure>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="ts_instagram_widget-4" class="widget TS_Instagram_Widget">
+                    <div class="instagram">
+                        <div class="title-widget">
+                            <h3>Instagram</h3>
+                        </div>
+                        <div class="photo-instagram">
+                            <ul class="list-photo">
+                                <li><a href="#" target="_self"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_self"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_self"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                                <li><a href="#" target="_blank"><img src="~/imagenes/23-150x150.jpg" alt="Instagram Image" title="Instagram Image"></a></li>
+                            </ul>
+                            <p>Follow Us #&nbsp;<a href="//instagram.com/deathtostock" target="_self">deathtostock</a></p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </aside>
+            <!-- End sidebar -->
+        </div>
+    </div>
+</div>

@@ -1,0 +1,238 @@
+.wpb_accordion_header {
+	position: relative;
+	border: 1px solid #252525;
+	background: none !important;
+	padding: 0 10px;
+	margin-bottom: 17px !important;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.wpb_accordion_header a, .wpb_content_element .wpb_tabs_nav li a {
+	position: relative;
+	display: block;
+	font: 700 12px/35px 'Montserrat';
+	color: #000;
+	padding: 0 !important;
+	text-transform: uppercase;
+	text-indent: 15px;
+}
+.wpb_accordion_header a:after {
+	content: '';
+	display: block;
+	position: absolute;
+	width: 7px;
+	height: 7px;
+	background-color: #000;
+	border-radius: 50%;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+}
+.wpb_accordion_header.ui-accordion-content-active {
+	background-color: #252525 !important;
+}
+.wpb_accordion_header.ui-accordion-content-active a {
+	color: #fff;
+}
+.wpb_accordion_header.ui-accordion-content-active a:after {
+	background-color: #fff !important;
+}
+.ui-accordion-header-icon {
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	right: 13px;
+}
+.ui-accordion-header-icon.ui-icon-triangle-1-s {
+	background: url('../images/accordion-plus.png') no-repeat right top !important;
+}
+.ui-accordion-header-icon.ui-icon-triangle-1-e {
+	background: url('../images/accordion-plus.png') no-repeat left top !important;
+}
+.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tab, .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content {
+	position: relative;
+	margin-bottom: 37px;
+	padding: 0;
+	background: none !important;
+}
+.wpb_tab .wpb_wrapper, .wpb_accordion_content .wpb_wrapper {
+	padding: 35px 24px;
+	border: 1px solid #ccc;
+	font: 300 13px/1.8em 'Merriweather';
+	color: #000;
+}
+.wpb_content_element .wpb_tabs_nav li.ui-tabs-active:before, .wpb_content_element .wpb_tabs_nav li.ui-tabs-active:after, .wpb_accordion_header:before, .wpb_accordion_header:after {
+	content: '';
+	display: block !important;
+	position: absolute;
+	border: solid transparent;
+	border-bottom-color: #ccc;
+	border-width: 11px 6px;
+	bottom: -18px;
+	left: 38px;
+	z-index: 8;
+}
+.wpb_content_element .wpb_tabs_nav li.ui-tabs-active:after, .wpb_accordion_header:after {
+	border-width: 10px 4px;
+	border-bottom-color: #fff;
+	bottom: -19px;
+	left: 40px;
+	z-index: 9;
+}
+/*
+ * Members
+ */
+.team {
+	padding-top: 0px !important;
+}
+
+.member {
+	margin-top: 92px;
+	padding: 0px 10px;
+}
+
+.member .image {
+	background-color: #111111;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 170px 170px;
+	height: 170px;
+	margin: 0px auto 40px;
+	width: 170px;
+}
+
+.member .image:before {
+	background-image: url(../img/misc/image.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	content: " ";
+	display: block;
+	height: 170px;
+	position: relative;
+	width: 170px;
+}
+
+.member .title {
+	margin-bottom: 7px;
+}
+
+.member .devider {
+	margin-bottom: 18px;
+}
+
+.member .text {
+	margin-bottom: 50px;
+}
+.member .subtitle {
+	margin-bottom: 0px;
+}
+.member .twitter {
+	background-image: url(../img/misc/twitter.png);
+	background-position: left 4px;
+	background-repeat: no-repeat;
+	background-size: 16px 13px;
+	color: #000000;
+	cursor: pointer;
+	display: inline;
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 7px;
+	padding-left: 24px;
+	text-decoration: none;
+	-webkit-transition: all .3s ease 0;
+	-moz-transition: all .3s ease 0;
+	-ms-transition: all .3s ease 0;
+	-o-transition: all .3s ease 0;
+	transition: all .3s ease 0;
+}
+
+.member .twitter:hover {
+	border-bottom: 1px solid #000000;
+}
+/*
+ * Fact
+ */
+
+.fact {
+	cursor: pointer;
+	margin-bottom: -30px;
+	margin-top: 92px;
+	padding: 0px 20px;
+}
+/*
+ * Our story
+ */
+.story.devider {
+	margin-bottom: 90px !important;
+}
+/*
+ * Our Work
+ */
+.quotes {
+	background-color: #eeeeee;
+	padding: 100px 0px !important;
+}
+
+.works .quotes .devider {
+	margin-bottom: 90px;
+}
+
+.quote .text {
+	padding: 0px 15px;
+}
+
+.quote .image {
+	background-color: #111111;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 80px 80px;
+	height: 80px;
+	margin: 50px auto 25px;
+	width: 80px;
+}
+
+.quote .image:before {
+	background-image: url(../img/misc/image-quote.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	content: " ";
+	display: block;
+	height: 80px;
+	position: relative;
+	width: 80px;
+}
+
+.quote .title {
+	font-size: 14px !important;
+}
+
+.quote .subtitle {
+	font-size: 12px !important;
+}
+/*
+ * Our Work
+ */
+ .client {
+		cursor: pointer;
+		margin: 80px 0px;
+		opacity: 0.5;
+		text-align: center;
+		-webkit-transition: all .3s ease 0;
+		-moz-transition: all .3s ease 0;
+		-ms-transition: all .3s ease 0;
+		-o-transition: all .3s ease 0;
+		transition: all .3s ease 0;
+	}
+  .client img
+  {
+  	max-width: 100% !important;
+  }
+
+ .client:hover {
+		opacity: 1;
+	}

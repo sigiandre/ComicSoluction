@@ -1,0 +1,133 @@
+﻿@model Comics.Domain.Entities.Comic
+@{
+    ViewData["Title"] = "Editar";
+}
+<div id="main_container">
+    <div class="container ipage">
+        <div class="row">
+            <!-- Start Loop Posts -->
+            <div id="inner-container" class="col-md-12 col-sm-12 col-xs-12 main-container">
+                <div class="parallax-about">
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="wpb_wrapper">
+                                <div class="section-title center">
+                                    <h3 class="bold text-uppercase">Editar Comic</h3><div class="hr"></div>
+                                </div>
+                                <p>
+                                    <a asp-action="Index" class="btn btn-default btn-sm"><< Regresar al listado</a>
+                                </p>
+                                <hr />
+                                <div class="ts-blog blog_peronal_list bloglist-size1">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <form method="post" enctype="multipart/form-data">
+
+                                                <input type="file" id="files"
+                                                       name="files" multiple />
+
+                                                <input type="button"
+                                                       class="single_add_to_cart_button button"
+                                                       id="upload"
+                                                       value="Upload" />
+
+                                            </form>
+                                            <form asp-action="Editar" method="post">
+                                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                                <input type="hidden" asp-for="Id" id="Id" />
+                                                <input type="hidden" asp-for="Foto" id="Foto" />
+                                                <div class="form-group">
+                                                    <label asp-for="Nombre" class="control-label"></label>
+                                                    <input asp-for="Nombre" class="form-control" id="Nombre" />
+                                                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label asp-for="Año" class="control-label"></label>
+                                                    <input asp-for="Año" class="form-control" id="Año" />
+                                                    <span asp-validation-for="Año" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label asp-for="FechaRegistro" class="control-label"></label>
+                                                    <input asp-for="FechaRegistro" type="date" class="form-control" id="FechaRegistro" />
+                                                    <span asp-validation-for="FechaRegistro" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input type="button" value="Grabar" class="single_add_to_cart_button button" id="Grabar" />
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#Grabar').click(function () {
+                let comic = {
+                    "Id": $('#Id').val(),
+                    "Nombre": $('#Nombre').val(),
+                    "Año": $('#Año').val(),
+                    "Foto": $('#Foto').val(),
+                    "FechaRegistro": $('#FechaRegistro').val()
+                };
+                $.ajax({
+                    type: "POST",
+                    url: 'https://localhost:44391/RevistasAjax/Editar',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    data: JSON.stringify(comic),
+                    headers: {
+                        RequestVerificationToken:
+                            $('input:hidden[name="__RequestVerificationToken"]').val()
+                    }
+                })
+                .done(function (result) {
+                    if (result.exito) {
+                        alert(result.mensaje);
+                        location.href = '/RevistasAjax/Index'
+                    }
+                    else
+                        alert('No se pudo modificar la revista, reintente por favor');
+                })
+                .fail(function (jqXHR, textStatus, errorThrown) {
+                    alert('Ocurrió un error inesperado, por favor comunicarse con soporte');
+                })
+            });
+
+            $("#upload").click(function (evt) {
+                var fileUpload = $("#files").get(0);
+                var files = fileUpload.files;
+                var data = new FormData();
+                for (var i = 0; i < files.length; i++)
+                {
+                    data.append(files[i].name, files[i]);
+                }
+
+                $.ajax({
+                    type: "POST",
+                    url: "https://localhost:44391/FileUpload/UploadFile",
+                    contentType: false,
+                    processData: false,
+                    data: data,
+                    success: function (message) {
+                        $('#Foto').val(message);
+                        alert("Archivo subido con exito!");
+                    },
+                    error: function () {
+
+                        alert("Hubo un error al subir el archivo!");
+                    }
+                });
+
+            });
+        });
+    </script>
+}

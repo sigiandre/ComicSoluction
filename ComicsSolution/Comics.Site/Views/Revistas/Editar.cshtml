@@ -1,0 +1,62 @@
+﻿@model Comics.Domain.Entities.Comic
+@{
+    ViewData["Title"] = "Create";
+}
+<div id="main_container">
+    <div class="container ipage">
+        <div class="row">
+            <!-- Start Loop Posts -->
+            <div id="inner-container" class="col-md-12 col-sm-12 col-xs-12 main-container">
+                <div class="parallax-about">
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="wpb_wrapper">
+                                <div class="section-title center">
+                                    <h3 class="bold text-uppercase">Editar Comic</h3><div class="hr"></div>
+                                </div>
+                                <p>
+                                    <a asp-action="Index" class="btn btn-default btn-sm"><< Regresar al listado</a>
+                                </p>
+                                <hr />
+                                <div class="ts-blog blog_peronal_list bloglist-size1">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <form asp-action="Editar" method="post">
+                                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                                <input type="hidden" asp-for="Id" />
+                                                <div class="form-group">
+                                                    <label asp-for="Nombre" class="control-label"></label>
+                                                    <input asp-for="Nombre" class="form-control" />
+                                                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label asp-for="Año" class="control-label"></label>
+                                                    <input asp-for="Año" class="form-control" />
+                                                    <span asp-validation-for="Año" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label asp-for="Foto" class="control-label"></label>
+                                                    <input asp-for="Foto" class="form-control" />
+                                                    <span asp-validation-for="Foto" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label asp-for="FechaRegistro" class="control-label"></label>
+                                                    <input asp-for="FechaRegistro" class="form-control" type="date" />
+                                                    <span asp-validation-for="FechaRegistro" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input type="submit" value="Grabar" class="single_add_to_cart_button button" />
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

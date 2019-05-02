@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Comics.Domain.Entities.Usuario>
+@{
+    ViewData["Title"] = "Listado de Usuarios";
+}
+<div id="main_container">
+    <div class="container ipage">
+        <div class="row">
+            <!-- Start Loop Posts -->
+            <div id="inner-container" class="col-md-12 col-sm-12 col-xs-12 main-container">
+                <div class="parallax-about">
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="wpb_wrapper">
+                                <div class="  section-title center">
+                                    <h3 class="bold text-uppercase">Listado de Usuarios</h3><div class="hr"></div>
+                                </div>
+                                <p>
+                                    <a asp-action="Crear" class="single_add_to_cart_button button alt">Crear Nuevo</a>
+                                </p>
+
+                                <div class="ts-blog blog_peronal_list bloglist-size1">
+                                    <div class=" blog-item post type-post status-publish format-image has-post-thumbnail hentry category-lifestyle tag-lifestyle post_format-post-format-image">
+                                        @foreach (var item in Model)
+                                        {
+                                            <div class="blog-item-right blog-post-item">
+                                                <article>
+                                                    <div class="category-name">
+                                                        <span><a href="#">Nombres:</a></span>
+                                                    </div>
+                                                    <div class="title-blogitem text-left">
+                                                        <h3><a href="#">@Html.DisplayFor(modelItem => item.Nombres)</a></h3>
+                                                        <hr>
+                                                    </div>
+                                                    <div class="title-blogitem text-left">
+                                                        <h3><a href="#">@Html.DisplayFor(modelItem => item.ApellidoPaterno)</a></h3>
+                                                        <hr>
+                                                    </div>
+                                                    <div class="title-blogitem text-left">
+                                                        <h3><a href="#">@Html.DisplayFor(modelItem => item.Email)</a></h3>
+                                                        <hr>
+                                                    </div>
+                                                    <div class="except-post text-right">
+                                                        <div>
+                                                            <a asp-action="Editar" asp-route-id="@item.Id" class="single_add_to_cart_button button">Editar</a>
+                                                            <a asp-action="Eliminar" asp-route-id="@item.Id" class="single_add_to_cart_button button alt">Eliminar</a>
+                                                        </div>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                            <hr />
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Loop Posts -->
+        </div>
+    </div>
+</div>
+
