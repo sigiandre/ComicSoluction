@@ -3636,11 +3636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj",
       "projectName": "Comics.Infraestructure.Data",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Infraestructure.Data\\Comics.Infraestructure.Data.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Infraestructure.Data\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Infraestructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3659,8 +3659,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj": {
-              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj"
+            "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Domain\\Comics.Domain.csproj"
             }
           }
         }

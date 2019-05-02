@@ -10707,11 +10707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj",
       "projectName": "Comics.Site.Tests",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Site.Tests\\Comics.Site.Tests.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Site.Tests\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Site.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10730,8 +10730,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Site\\Comics.Site.csproj": {
-              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\ComicsSolution\\Comics.Site\\Comics.Site.csproj"
+            "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Site\\Comics.Site.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Trabajo Web\\ComicsSolution\\Comics.Site\\Comics.Site.csproj"
             }
           }
         }

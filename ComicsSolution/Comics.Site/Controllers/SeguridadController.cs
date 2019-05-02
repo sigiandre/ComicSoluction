@@ -19,7 +19,7 @@ namespace Comics.Site.Controllers
 
         public async Task<IActionResult> Login(UsuarioLogin usuario)
         {
-            if (usuario.Email == "andre@gmail.com" && usuario.Password == "123" )
+            if (usuario.Email == "andre@gmail.com" && usuario.Password == "123" || usuario.Email == "jaime@gmail.com" && usuario.Password == "1234")
             {
                 var claims = new List<Claim>
                 {

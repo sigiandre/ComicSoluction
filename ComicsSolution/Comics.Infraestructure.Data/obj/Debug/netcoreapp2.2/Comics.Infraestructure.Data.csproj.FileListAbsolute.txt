@@ -62,3 +62,17 @@ C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\ob
 C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CopyComplete
 C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
 C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.deps.json
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.csproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.dll
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Infraestructure.Data\obj\Debug\netcoreapp2.2\Comics.Infraestructure.Data.pdb

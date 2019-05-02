@@ -43,3 +43,12 @@ C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcor
 C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfo.cs
 C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.dll
 C:\Users\andre\OneDrive\Escritorio\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.pdb
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.deps.json
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.dll
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\bin\Debug\netcoreapp2.2\Comics.Domain.pdb
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.dll
+C:\Users\andre\OneDrive\Escritorio\Trabajo Web\ComicsSolution\Comics.Domain\obj\Debug\netcoreapp2.2\Comics.Domain.pdb
